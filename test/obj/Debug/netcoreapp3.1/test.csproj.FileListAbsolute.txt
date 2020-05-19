@@ -1,0 +1,10 @@
+/Users/sophiechen/Desktop/test/test/bin/Debug/netcoreapp3.1/test.deps.json
+/Users/sophiechen/Desktop/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.json
+/Users/sophiechen/Desktop/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.dev.json
+/Users/sophiechen/Desktop/test/test/bin/Debug/netcoreapp3.1/test.dll
+/Users/sophiechen/Desktop/test/test/bin/Debug/netcoreapp3.1/test.pdb
+/Users/sophiechen/Desktop/test/test/obj/Debug/netcoreapp3.1/test.csprojAssemblyReference.cache
+/Users/sophiechen/Desktop/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfoInputs.cache
+/Users/sophiechen/Desktop/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfo.cs
+/Users/sophiechen/Desktop/test/test/obj/Debug/netcoreapp3.1/test.dll
+/Users/sophiechen/Desktop/test/test/obj/Debug/netcoreapp3.1/test.pdb
